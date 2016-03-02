@@ -25,7 +25,7 @@
 
 
 ## Android part
-* Android module: Remote Presence
+* Android module: Telepresence
 * Android module: Speech Interactions ("Okay Andbot", support 中英文)
 * Android app: 家教機器人 (教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看)
 * Android app: 做菜小幫手 (提示做菜步驟)
