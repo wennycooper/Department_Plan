@@ -16,7 +16,7 @@
 # Tasks & Schedules
 ## ROS packages
 * ROS package: Auto docking
-* ROS package: Robust mobility (SLAM, robot pose ekf)
+* ROS package: Robust mobility (odometry compensate by IMU)
 * ROS package: Face recognition, looking for specified person
 * ROS package: Follow me
 * ROS package: Visual Gesture Interactions
