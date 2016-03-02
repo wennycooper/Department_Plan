@@ -81,7 +81,7 @@
 
 ### Android app: 家教機器人app 
 * Desc: 教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看
-* Dependancy: Robust mobility, Speech Interaction, Visual Gesture, Follow me
+* Dependancy: Robust mobility, Visual Gesture, Follow me
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate: 2016/04/01
 * TargetDate: 2016/04/29
