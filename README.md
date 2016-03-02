@@ -87,7 +87,7 @@
 * TargetDate: 2016/04/29
 * Owner: A2
 
-### Android app: 做菜小幫手app
+### Android app: 廚房小幫手app
 * Desc: 提示做菜步驟, 用手勢或語音互動   
 * Dependancy: Speech Interactions, Visual Gesture
 * Status: (Progress: %, Short-term goal: ...)
@@ -115,17 +115,17 @@
 * Desc: Calendar & scheduled alarm
 * Dependancy: Speech Interactions
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/05/02
-* TargetDate: 2016/05/20
-* Owner: A3
+* StartDate: 
+* TargetDate: 
+* Owner: 
 
 ### Android app: 娛樂機器人app 
 * Desc: 說故事, 播電影, 播音樂, 遊戲
 * Dependancy: 
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/05/02
-* TargetDate: 2016/05/30
-* Owner: A4
+* StartDate: 
+* TargetDate: 
+* Owner: 
 
 ### ANDBOT SDK
 * Dependancy: Tutorial document, sample codes, forum
@@ -145,9 +145,9 @@
 ### Android app upgrade system
 * Dependancy: App upgrade system
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/
-* TargetDate: 2016/
-* Owner: A?
+* StartDate: 2016/05/02
+* TargetDate: 2016/05/30
+* Owner: A3 + A4
 
 
 
