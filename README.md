@@ -136,12 +136,18 @@
 
 ## Backend
 ### Robot OTA system
-* Dependancy: Auto upgrade system
+* Dependancy: Robot auto upgrade system
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
 * Owner: Muchun
 
+### Android app upgrade system
+* Dependancy: App upgrade system
+* Status: (Progress: %, Short-term goal: ...)
+* StartDate: 2016/
+* TargetDate: 2016/
+* Owner: A?
 
 
 
