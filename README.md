@@ -57,16 +57,11 @@
 ### ROS package: Object recognition
 * Dependancy: 
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/03/16
-* TargetDate: 2016/04/15
-* Owner: Will
-
-### ROS package: Arms & Grippers manipulation
-* Dependancy: gripper mechanics
-* Status: (Progress: %, Short-term goal: ...)
 * StartDate: 2016/03/22
-* TargetDate: 2016/04/22
+* TargetDate: 2016/04/15
 * Owner: Zach
+
+
 
 ## Android part
 ### Android module: Telepresence
