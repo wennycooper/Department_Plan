@@ -67,13 +67,13 @@
 
 ## Android part
 ### Android module: Telepresence
-* Dependancy: 
+* Dependancy: webrtc project
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate:
-* TargetDate:
-* Owner:
+* StartDate: 2016/04/01
+* TargetDate: 2016/04/15
+* Owner: A1
 
-### Android module: Speech Interactions ("Okay Andbot", support 中英文)
+### Android module: Speech Interactions ("Okay Andbot" & support 中英文)
 * Dependancy: 
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
@@ -81,35 +81,35 @@
 * Owner:
 
 ### Android app: 家教機器人 (教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看)
-* Dependancy: 
+* Dependancy: Robust mobility, Speech Interaction, Follow me
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
 ### Android app: 做菜小幫手 (提示做菜步驟)
-* Dependancy: 
+* Dependancy: Visual Gesture
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
 ### Android app: 居家安全 (天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, 遠端即時監看)
-* Dependancy: 
+* Dependancy: Telepresence
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
 ### Android app: 老人照護 (用藥提醒&紀錄, 陪老人聊天, 遠端即時監看, 如果老人有健康問題 發出alarm, 定時自動拍照上傳紀錄)
-* Dependancy: 
+* Dependancy: Telepresence, Speech Interactions
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
 ### Android app: 個人小秘書 (scheduled alarm)
-* Dependancy: 
+* Dependancy: Speech Interactions
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
