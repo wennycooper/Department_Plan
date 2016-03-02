@@ -80,14 +80,16 @@
 * TargetDate:
 * Owner:
 
-### Android app: 家教機器人 (教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看)
+### Android app: 家教機器人 
+* Desc: 教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看
 * Dependancy: Robust mobility, Speech Interaction, Follow me
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
-### Android app: 做菜小幫手 (提示做菜步驟)
+### Android app: 做菜小幫手
+* Desc: 提示做菜步驟, 用手勢或語音互動   
 * Dependancy: Visual Gesture
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
@@ -95,35 +97,39 @@
 * Owner:
 
 ### Android app: 居家安全 (天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, 遠端即時監看)
+* Desc: 天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, 遠端即時監看
 * Dependancy: Telepresence
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
-### Android app: 老人照護 (用藥提醒&紀錄, 陪老人聊天, 遠端即時監看, 如果老人有健康問題 發出alarm, 定時自動拍照上傳紀錄)
+### Android app: 老人照護 
+* Desc: 用藥提醒&紀錄, 陪老人聊天, 遠端即時監看, 如果老人有健康問題 發出alarm, 定時自動拍照上傳紀錄
 * Dependancy: Telepresence, Speech Interactions
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
-### Android app: 個人小秘書 (scheduled alarm)
+### Android app: 個人小秘書
+* Desc: Calendar & scheduled alarm
 * Dependancy: Speech Interactions
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
-### Android app: 娛樂機器人 (說故事, 播電影, 播音樂, 遊戲)
+### Android app: 娛樂機器人 
+* Desc: 說故事, 播電影, 播音樂, 遊戲
 * Dependancy: 
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
 * Owner:
 
-### ANDBOT SDK: Tutorial documents and sample codes 
-* Dependancy: 
+### ANDBOT SDK
+* Dependancy: Tutorial document, sample codes, forum
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
@@ -131,7 +137,7 @@
 
 ## Backend
 ### Robot OTA system
-* Dependancy: 
+* Dependancy: Auto upgrade system
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate:
 * TargetDate:
