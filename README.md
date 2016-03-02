@@ -23,11 +23,12 @@
 * TargetDate: 2016/03/21
 * Owner: Zach
 
-### ROS package: Robust mobility (odometry compensate by IMU)
-* Dependancy: 
+### ROS package: Robust mobility
+* Desc: Odometry compensate by IMU, 3D obstacles avoidance
+* Dependancy: Xtion Pro
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/03/02
-* TargetDate: 2016/03/15
+* StartDate: 2016/03/07
+* TargetDate: 2016/04/15
 * Owner: Will
 
 ### ROS package: Visual Gesture Interactions
@@ -136,14 +137,14 @@
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate: 2016/05/02
 * TargetDate: 2016/05/30 ~
-* Owner: A1 + A2
+* Owner: A1 + A2 + Muchun
 
 ## Backend
 ### Robot OTA system
 * Dependancy: Auto upgrade system
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/29
+* StartDate: 2016/03/07
+* TargetDate: 2016/04/15
 * Owner: Muchun
 
 
