@@ -27,7 +27,7 @@
 * Android module: Remote Presence
 * Android module: Speech Interactions
 * Android module: Visual Gesture Interactions
-* Android app: 家教機器人 (教英語, 教數學, 給小孩問答, 教學紀錄給父母看)
+* Android app: 家教機器人 (教英語, 教數學, 給小孩問答, 教給父母看)
 * Android app: 做菜小幫手 (提示做菜步驟)
 * Android app: 居家安全 (天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, remote presence)
 * Android app: 老人照護 (用藥提醒&紀錄, 陪老人聊天, remote presence, 如果老人有健康問題 發出alarm, 定時自動拍照)
