@@ -4,7 +4,7 @@
 ## ROS developers
 * Current: 3
 * Recruiting: +2
-** 
+ *  
 
 ## Android app developers
 * Current: 0
@@ -19,14 +19,14 @@
 * ROS package: Robust mobility (SLAM, robot pose ekf)
 * ROS package: Face recognition, looking for specified person
 * ROS package: Follow me
+* ROS package: Visual Gesture Interactions
 * ROS package: Object recognition
 * ROS package: Arms & Grippers manipulation
 
 
 ## Android part
 * Android module: Remote Presence
-* Android module: Speech Interactions
-* Android module: Visual Gesture Interactions
+* Android module: Speech Interactions ("Okay Andbot", support 中英文)
 * Android app: 家教機器人 (教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看)
 * Android app: 做菜小幫手 (提示做菜步驟)
 * Android app: 居家安全 (天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, 遠端即時監看)
