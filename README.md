@@ -30,26 +30,28 @@
 * TargetDate: 2016/03/15
 * Owner: Will
 
+### ROS package: Visual Gesture Interactions
+* Dependancy: Xtion Pro
+* Status: (Progress: %, Short-term goal: ...)
+* StartDate: 2016/03/07
+* TargetDate: 2016/03/31
+* Owner: KKuei
+
 ### ROS package: Face recognition, looking for specified person
 * Dependancy: Baidu Face recognition API
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/03/07
-* TargetDate: 2016/03/28
-* Owner: KKuei
+* StartDate: 2016/04/01
+* TargetDate: 2016/04/29
+* Owner: KKuei + R1
 
 ### ROS package: Auto docking
 * Dependancy: 
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/03/07
-* TargetDate: 2016/03/28
-* Owner: Muchun
-
-### ROS package: Visual Gesture Interactions
-* Dependancy: Xtion Pro
-* Status: (Progress: %, Short-term goal: ...)
 * StartDate: 2016/04/01
-* TargetDate: 2016/04/30
-* Owner: KKuei
+* TargetDate: 2016/04/28
+* Owner: R2
+
+
 
 ### ROS package: Object recognition
 * Dependancy: 
