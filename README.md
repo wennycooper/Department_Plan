@@ -34,8 +34,8 @@
 ### ROS package: Visual Gesture Interactions
 * Dependancy: Xtion Pro
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/03/07
-* TargetDate: 2016/03/31
+* StartDate: 2016/04/16
+* TargetDate: 2016/04/30
 * Owner: KKuei
 
 ### ROS package: Face recognition, looking for specified person
@@ -43,14 +43,14 @@
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate: 2016/04/01
 * TargetDate: 2016/04/29
-* Owner: KKuei + R1
+* Owner: R1
 
 ### ROS package: Auto docking
 * Dependancy: 
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/28
-* Owner: R2
+* StartDate: 2016/03/07
+* TargetDate: 2016/04/15
+* Owner: KKuei
 
 
 
