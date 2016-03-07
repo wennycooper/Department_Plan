@@ -50,7 +50,7 @@
 * Status: (Progress: %, Short-term goal: ...)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
-* Owner: KKuei
+* Owner: KKuei & muchun
 
 
 
@@ -138,8 +138,8 @@
 ### Robot OTA system
 * Dependancy: Robot auto upgrade system
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/03/07
-* TargetDate: 2016/04/15
+* StartDate: 2016/04/16
+* TargetDate: 2016/05/30
 * Owner: Muchun
 
 ### Android app upgrade system
