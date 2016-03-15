@@ -20,7 +20,7 @@
 * Dependancy: 
 * Status: (Progress: 15%, Short-term goal: try Dr. Yeh's IR sensors)
 * StartDate: 2016/03/07
-* TargetDate: 2016/03/21
+* TargetDate: 2016/03/25
 * Owner: Zach
 
 ### ROS package: Robust mobility
@@ -57,8 +57,8 @@
 ### ROS package: Object recognition
 * Dependancy: 
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/03/22
-* TargetDate: 2016/04/15
+* StartDate: 2016/03/28
+* TargetDate: 2016/04/30
 * Owner: Zach
 
 
