@@ -5,12 +5,13 @@
 * Current: 3
 * Recruiting: +2 +5 
 * TargetDate: 4/1 on board
-* Status: (Progress: 0%)
+* Status: (Progress: 15%, 1 engineer(柯霽祐) on board on 4/6)
+
 ## Android app developers
 * Current: 0
 * Recruiting: +3 +1
 * TargetDate: 4/1 on board 
-* Status: (Progress: 50%, two engineers on board on 4/6)
+* Status: (Progress: 75%, 3 engineers (陳彥良 4/6, 王智昇 4/18, 李嘉偉 4/25) on board in April)
 
 ## Backend developers
 * Current: 1
@@ -19,7 +20,7 @@
 ## ROS packages
 ### ROS package: Follow me (by XtionPro or cheap sensors)
 * Dependancy: 
-* Status: (Progress: 30%, Short-term goal: will use Dr. Yeh's code to implement on prototype)
+* Status: (Progress: 50%, Short-term goal: will use Dr. Yeh's code to implement on prototype)
 * StartDate: 2016/03/07
 * TargetDate: 2016/03/25
 * Owner: Zach
@@ -27,7 +28,7 @@
 ### ROS package: Robust mobility
 * Desc: Odometry compensate by IMU, 3D obstacles avoidance
 * Dependancy: Xtion Pro, IMU
-* Status: (Progress: 15%, Short-term goal: Study EKF, cooperate with Dr. Yeh's team)
+* Status: (Progress: 40%, Short-term goal: Study EKF, cooperate with Dr. Yeh's team)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
 * Owner: Will
@@ -48,7 +49,7 @@
 
 ### ROS package: Auto docking
 * Dependancy: 
-* Status: (Progress: 15%, Short-term goal: acquire IR emitters and colimator)
+* Status: (Progress: 20%, Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
 * Owner: KKuei & muchun
