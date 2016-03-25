@@ -23,7 +23,7 @@
 * Dependancy: 
 * Status: (Progress: 50%, Short-term goal: Measure the odometry accuracy)
 * StartDate: 2016/03/17
-* TargetDate: 2016/04/01
+* TargetDate: 2016/04/08
 * Owner: Muchun
 
 
@@ -32,7 +32,7 @@
 * Dependancy: 
 * Status: (Progress: 50%, Short-term goal: will use Dr. Yeh's code to implement on prototype)
 * StartDate: 2016/03/07
-* TargetDate: 2016/03/25
+* TargetDate: 2016/04/01
 * Owner: Zach
 
 ### ROS package: Robust mobility
