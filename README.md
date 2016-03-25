@@ -17,6 +17,16 @@
 * Current: 1
 
 # Tasks & Schedules
+
+## Short-term study
+### BLDC study
+* Dependancy: 
+* Status: (Progress: 50%, Short-term goal: Measure the odometry accuracy)
+* StartDate: 2016/03/17
+* TargetDate: 2016/04/01
+* Owner: Muchun
+
+
 ## ROS packages
 ### ROS package: Follow me (by XtionPro or cheap sensors)
 * Dependancy: 
@@ -33,6 +43,13 @@
 * TargetDate: 2016/04/15
 * Owner: Will
 
+### ROS package: Auto docking
+* Dependancy: 
+* Status: (Progress: 20%, Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
+* StartDate: 2016/03/07
+* TargetDate: 2016/04/15
+* Owner: KKuei & muchun
+
 ### ROS package: Visual Gesture Interactions
 * Dependancy: Xtion Pro
 * Status: (Progress: 0%, Short-term goal: ...)
@@ -47,23 +64,12 @@
 * TargetDate: 2016/04/29
 * Owner: R1
 
-### ROS package: Auto docking
-* Dependancy: 
-* Status: (Progress: 20%, Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
-* StartDate: 2016/03/07
-* TargetDate: 2016/04/15
-* Owner: KKuei & muchun
-
-
-
 ### ROS package: Object recognition
 * Dependancy: 
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/03/28
 * TargetDate: 2016/04/30
 * Owner: Zach
-
-
 
 ## Android part
 ### Android module: Telepresence
