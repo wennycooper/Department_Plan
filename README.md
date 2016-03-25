@@ -45,10 +45,10 @@
 
 ### ROS package: Auto docking
 * Dependancy: 
-* Status: (Progress: 20%, Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
+* Status: (Progress: 30% It looks like we found the solution!! Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
-* Owner: KKuei & muchun
+* Owner: KKuei
 
 ### ROS package: Visual Gesture Interactions
 * Dependancy: Xtion Pro
