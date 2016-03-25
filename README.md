@@ -4,7 +4,7 @@
 ## ROS developers
 * Current: 3
 * Recruiting: +2 +5 
-* TargetDate: 4/1 on board
+* TargetDate: 5/1 on board
 * Status: (Progress: 15%, 1 engineer(柯霽祐) on board on 4/6)
 
 ## Android app developers
