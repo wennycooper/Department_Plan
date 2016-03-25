@@ -75,40 +75,40 @@
 ### Android module: Telepresence
 * Dependancy: webrtc project
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/15
+* StartDate: 2016/04/08
+* TargetDate: 2016/04/22
 * Owner: A1
 
 ### Android module: Speech Interactions 
 * Desc: "Okay Andbot" & support 中英文 
 * Dependancy: Google & Baidu Speech Recognition API
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/29
-* Owner: A1
+* StartDate: 2016/04/18
+* TargetDate: 2016/05/18
+* Owner: A2
 
 ### Android app: 家教機器人app 
 * Desc: 教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看
 * Dependancy: Robust mobility, Visual Gesture, Follow me
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/29
-* Owner: A2
+* StartDate: 2016/04/25
+* TargetDate: 2016/05/31
+* Owner: A3
 
 ### Android app: 廚房小幫手app
 * Desc: 提示做菜步驟, 用手勢或語音互動   
 * Dependancy: Speech Interactions, Visual Gesture
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/29
-* Owner: A3
+* StartDate: 2016/05/01
+* TargetDate: 2016/05/31
+* Owner: A4
 
 ### Android app: 居家安全app
 * Desc: 天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, 遠端即時監看
 * Dependancy: Telepresence
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/29
+* StartDate: 2016/05/19
+* TargetDate: 2016/06/10
 * Owner: A4
 
 ### Android app: 老人照護app 
