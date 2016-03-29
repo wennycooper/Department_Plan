@@ -53,8 +53,8 @@
 ### ROS package: Visual Gesture Interactions
 * Dependancy: Xtion Pro
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/16
-* TargetDate: 2016/04/30
+* StartDate: 2016/04/18
+* TargetDate: 2016/05/06
 * Owner: KKuei
 
 ### ROS package: Face recognition, looking for specified person
@@ -67,8 +67,8 @@
 ### ROS package: Object recognition
 * Dependancy: 
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/03/28
-* TargetDate: 2016/04/30
+* StartDate: 2016/04/01
+* TargetDate: 2016/04/29
 * Owner: Zach
 
 ## Android part
@@ -80,11 +80,11 @@
 * Owner: A1
 
 ### Android module: Speech Interactions 
-* Desc: "Okay Andbot" & support 中英文 
-* Dependancy: Google & Baidu Speech Recognition API
+* Desc: "Okay Andbot" & support 中英文 & integration with Turing OS SDK/API
+* Dependancy: 3rd-party Speech API
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/18
-* TargetDate: 2016/05/18
+* TargetDate: 2016/05/31
 * Owner: A2
 
 ### Android app: 家教機器人app 
@@ -107,25 +107,32 @@
 * Desc: 天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, 遠端即時監看
 * Dependancy: Telepresence
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/05/19
-* TargetDate: 2016/06/10
-* Owner: A4
+* StartDate: 2016/04/25
+* TargetDate: 2016/05/30
+* Owner: A1
+
+### ANDBOT SDK
+* Dependancy: Tutorial document, sample codes, forum
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/02
+* TargetDate: 2016/06/30 ~
+* Owner: A1 + A2
 
 ### Android app: 老人照護app 
 * Desc: 用藥提醒&紀錄, 陪老人聊天, 遠端即時監看, 如果老人有健康問題 發出alarm, 定時自動拍照上傳紀錄
 * Dependancy: Telepresence, Speech Interactions
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 
-* TargetDate:
-* Owner:
+* StartDate: 2016/06/01
+* TargetDate: 2016/06/30
+* Owner: A3
 
 ### Android app: 個人小秘書app
 * Desc: Calendar & scheduled alarm
 * Dependancy: Speech Interactions
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 
-* TargetDate: 
-* Owner: 
+* StartDate: 2016/06/01 
+* TargetDate: 2016/06/30
+* Owner: A4
 
 ### Android app: 娛樂機器人app 
 * Desc: 說故事, 播電影, 播音樂, 遊戲
@@ -135,12 +142,6 @@
 * TargetDate: 
 * Owner: 
 
-### ANDBOT SDK
-* Dependancy: Tutorial document, sample codes, forum
-* Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/02
-* TargetDate: 2016/05/30 ~
-* Owner: A1 + A2 + Muchun
 
 ## Backend
 ### Robot OTA system
@@ -153,8 +154,8 @@
 ### Android app upgrade system
 * Dependancy: App upgrade system
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/02
-* TargetDate: 2016/05/30
+* StartDate: 2016/07/01
+* TargetDate: 2016/07/31
 * Owner: A3 + A4
 
 
