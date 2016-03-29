@@ -61,7 +61,7 @@
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/18
 * TargetDate: 2016/05/06
-* Owner: KKuei
+* Owner: R1
 
 ### ROS package: Face recognition, looking for specified person
 * Dependancy: Baidu Face recognition API
@@ -69,6 +69,13 @@
 * StartDate: 2016/04/01
 * TargetDate: 2016/04/29
 * Owner: R1
+
+## ROS package: Arms smooth movement
+* Dependancy: ROS MoveIt.
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate:
+* Owner: R2
 
 ### ROS package: Object recognition
 * Dependancy: 
