@@ -100,6 +100,14 @@
 * Owner: R?
 
 
+### ROS package: Object Description Model Development
+* Desc: Develop a universal Object description format, so that robot can understand how to manuplate the specified object
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
 ## Android part
 ### Android module: Telepresence
 * Dependancy: webrtc project
