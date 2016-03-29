@@ -56,19 +56,19 @@
 * TargetDate: 2016/04/15
 * Owner: KKuei
 
-### ROS package: Visual Gesture Interactions
-* Dependancy: Xtion Pro
+### ROS package: Visual-based Gesture Interactions
+* Dependancy: Xtion Pro + PCL
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/18
-* TargetDate: 2016/05/06
+* StartDate: 2016/04/06
+* TargetDate: 2016/04/30
 * Owner: R1
 
 ### ROS package: People Detection
-* Dependancy: PCL 
+* Dependancy: Xtion Pro + PCL 
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 
-* TargetDate: 
-* Owner: R?
+* StartDate: 2016/04/18
+* TargetDate: 2016/05/18
+* Owner: KKuei
 
 
 ### ROS package: Face recognition
@@ -76,33 +76,32 @@
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/01
 * TargetDate: 2016/04/29
-* Owner: R?
+* Owner: Will
 
-## ROS package: Arms smooth movement
+### ROS package: Arms smooth movement
 * Dependancy: ROS MoveIt.
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 
-* TargetDate:
+* StartDate: 2016/04/01
+* TargetDate: 2016/04/30
+* Owner: Zach
+
+### ROS package: Arms & Gripper to manuplate specified object
+* Dependancy: Xtion Pro + PCL
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/05/01
+* TargetDate: 2016/05/31
 * Owner: R?
 
-### ROS package: Object recognition
-* Dependancy: 
+### ROS package: Objects recognition
+* Dependancy: Xtion Pro + PCL
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 
+* StartDate: 2016/0
 * TargetDate: 
 * Owner: R?
 
-### ROS package: Arms & Gripper to manuplate specified object
-* Dependancy: 
-* Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/29
-* Owner: R?
-
-
 ### ROS package: Object Description Model Development
 * Desc: Develop a universal Object description format, so that robot can understand how to manuplate the specified object
-* Dependancy: 
+* Dependancy: Xtion Pro + PCL
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 
 * TargetDate: 
