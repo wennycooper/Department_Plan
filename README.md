@@ -68,7 +68,7 @@
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/18
 * TargetDate: 2016/05/18
-* Owner: KKuei
+* Owner: Zach + RX 
 
 
 ### ROS package: Face recognition
@@ -76,32 +76,90 @@
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/01
 * TargetDate: 2016/04/29
-* Owner: Will
+* Owner: Will + RX
 
-### ROS package: Arms smooth movement
-* Dependancy: ROS MoveIt.
+### ROS package: RS-485 Real-time arms controller implementation
+* Dependancy: 
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/30
-* Owner: Zach
+* StartDate: 2016/4/18
+* TargetDate: 2016/5/18
+* Owner: Will + R4
+
+### ROS package: Precise Arms movement without trajectory planning
+* Dependancy: RS-485 real-time arms controller + precise arms mechanism
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/05/19
+* TargetDate: 2016/06/18 
+* Owner: R2 + R3
+
+### ROS package: Smooth Arms movement with trajectory planning
+* Dependancy: Real-time 4DOF arms controller + precise arms joints
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/19
+* TargetDate: 2016/07/18
+* Owner: RX + RX
+
+### ROS package: Gripper implementation (2DOF wrist + NDOF gripper)
+* Dependancy: outsourced gripper manufactory
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/
+* TargetDate: 2016/ +1M
+* Owner: RX + RX
+
 
 ### ROS package: Arms & Gripper to manuplate specified object
 * Dependancy: Xtion Pro + PCL
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/01
-* TargetDate: 2016/05/31
-* Owner: R?
+* StartDate: 2016/0
+* TargetDate: 2016/0 
+* Owner: RX + RX
 
 ### ROS package: Objects recognition
 * Dependancy: Xtion Pro + PCL
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/0
-* TargetDate: 
-* Owner: R?
+* TargetDate: 2016
+* Owner: Zach + RX
 
 ### ROS package: Object Description Model Development
 * Desc: Develop a universal Object description format, so that robot can understand how to manuplate the specified object
 * Dependancy: Xtion Pro + PCL
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
+### ROS package: Customized LiDAR driver implementation
+* Desc: Develop a XV11 alternatives
+* Dependancy: custom LiDAR hardware
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
+### ROS packages: Home security various sensor integration
+* Dependancy:
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
+### ROS packages: FollowMe-based SLAM
+* Dependancy:
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
+### ROS packages: Projection
+* Dependancy:
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
+### ROS package: Dish cart
+* Dependancy:
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 
 * TargetDate: 
