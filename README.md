@@ -63,26 +63,42 @@
 * TargetDate: 2016/05/06
 * Owner: R1
 
-### ROS package: Face recognition, looking for specified person
+### ROS package: People Detection
+* Dependancy: PCL 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
+
+### ROS package: Face recognition
 * Dependancy: Baidu Face recognition API
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/01
 * TargetDate: 2016/04/29
-* Owner: R1
+* Owner: R?
 
 ## ROS package: Arms smooth movement
 * Dependancy: ROS MoveIt.
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 
 * TargetDate:
-* Owner: R2
+* Owner: R?
 
 ### ROS package: Object recognition
 * Dependancy: 
 * Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 
+* TargetDate: 
+* Owner: R?
+
+### ROS package: Arms & Gripper to manuplate specified object
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/01
 * TargetDate: 2016/04/29
-* Owner: Zach
+* Owner: R?
+
 
 ## Android part
 ### Android module: Telepresence
