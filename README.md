@@ -5,7 +5,7 @@
 * Current: 3
 * Recruiting: +2 +5 
 * TargetDate: 5/1 on board
-* Status: (Progress: 15%, 1 engineer(柯霽祐) on board on 4/6)
+* Status: (Progress: 30%, 2 engineers (柯霽祐, 林浩鋕) will be on board on 4/6 & on 4/18)
 
 ## Android app developers
 * Current: 0
@@ -21,14 +21,14 @@
 ## Short-term projects
 ### BLDC study
 * Dependancy: 
-* Status: (Progress: 50%, Short-term goal: Measure the odometry accuracy)
+* Status: (Progress: 70%, Short-term goal: Measure the odometry accuracy)
 * StartDate: 2016/03/17
 * TargetDate: 2016/04/08
 * Owner: Muchun
 
 ### SBIR project application
 * Dependancy:
-* Status: (Progress: 5%, Short-term goal: )
+* Status: (Progress: 10%, Short-term goal: )
 * StartDate: 2016/03/15
 * TargetDate: 2016/04/30
 * Owner: KKuei
@@ -36,7 +36,7 @@
 ## ROS packages
 ### ROS package: Follow me (by XtionPro or cheap sensors)
 * Dependancy: 
-* Status: (Progress: 50%, Short-term goal: will use Dr. Yeh's code to implement on prototype)
+* Status: (Progress: 75%, Short-term goal: will use Dr. Yeh's code to implement on prototype)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/01
 * Owner: Zach
@@ -51,7 +51,7 @@
 
 ### ROS package: Auto docking
 * Dependancy: 
-* Status: (Progress: 30% It looks like we found the solution!! Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
+* Status: (Progress: 50% It looks like we found the solution!! Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
 * Owner: KKuei
