@@ -18,7 +18,7 @@
 
 # Tasks & Schedules
 
-## Short-term study
+## Short-term projects
 ### BLDC study
 * Dependancy: 
 * Status: (Progress: 50%, Short-term goal: Measure the odometry accuracy)
@@ -154,14 +154,14 @@
 * Owner: R?
 
 ### ROS packages: Projection
-* Dependancy:
+* Dependancy: projection hardware
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 
 * TargetDate: 
 * Owner: R?
 
 ### ROS package: Dish cart
-* Dependancy:
+* Dependancy: dish cart hardware
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 
 * TargetDate: 
