@@ -63,12 +63,27 @@
 * TargetDate: 2016/04/30
 * Owner: R1 (柯霽祐) 
 
+### ROS packages: Home security with various sensor integration
+* Dependancy:
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/05/01 
+* TargetDate: 2016/05/31
+* Owner: R1
+* 
 ### ROS package: People Detection
 * Dependancy: Xtion Pro + PCL 
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/04/06
 * TargetDate: 2016/05/05
 * Owner: Zach + R2 
+
+### ROS package: Objects recognition
+* Dependancy: Xtion Pro + PCL
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/05/06 
+* TargetDate: 2016/06/17
+* Owner: Zach + R2
+
 
 ### ROS package: RS-485 Real-time arms controller implementation
 * Dependancy: 
@@ -114,19 +129,6 @@
 * TargetDate: 2016/08/18
 * Owner: R4 + R5
 
-### ROS package: Objects recognition
-* Dependancy: Xtion Pro + PCL
-* Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/06 
-* TargetDate: 2016/06/17
-* Owner: Zach + R2
-
-### ROS packages: Home security various sensor integration
-* Dependancy:
-* Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/01 
-* TargetDate: 2016/05/31
-* Owner: R1
 
 ### ROS package: Object Description Model Development
 * Desc: Develop a universal Object description format, so that robot can understand how to manuplate the specified object
