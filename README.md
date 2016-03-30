@@ -69,7 +69,7 @@
 * StartDate: 2016/05/01 
 * TargetDate: 2016/05/31
 * Owner: R1
-* 
+
 ### ROS package: People Detection
 * Dependancy: Xtion Pro + PCL 
 * Status: (Progress: 0%, Short-term goal: ...)
