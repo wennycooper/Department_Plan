@@ -38,7 +38,7 @@
 * Dependancy: 
 * Status: (Progress: 75%, Short-term goal: will use Dr. Yeh's code to implement on prototype)
 * StartDate: 2016/03/07
-* TargetDate: 2016/04/01
+* TargetDate: 2016/04/08
 * Owner: Zach
 
 ### ROS package: Robust mobility
