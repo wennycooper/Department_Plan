@@ -21,7 +21,7 @@
 ## Short-term projects
 ### BLDC study
 * Dependancy: 
-* Status: (Progress: 70%, Short-term goal: Measure the odometry accuracy)
+* Status: (Progress: 75%, Short-term goal: Measure the odometry accuracy)
 * StartDate: 2016/03/17
 * TargetDate: 2016/04/08
 * Owner: Muchun
