@@ -34,9 +34,9 @@
 * Owner: KKuei
 
 ## ROS packages
-### ROS package: Follow me (by XtionPro or cheap sensors)
+### ROS package: IR-based Follow me
 * Dependancy: 
-* Status: (Progress: 75%, Short-term goal: will use Dr. Yeh's code to implement on prototype)
+* Status: (Progress: 80%, Short-term goal: working on visual-based tracking)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/08
 * Owner: Zach
@@ -51,7 +51,7 @@
 
 ### ROS package: Auto docking
 * Dependancy: 
-* Status: (Progress: 50% It looks like we found the solution!! Short-term goal: will use two IR receiver + 1 IR emitter to implement prototype)
+* Status: (Progress: 75% It looks like we found the solution!! Short-term goal: will use four IR receivers + 3 IR emitters to implement a prototype)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
 * Owner: KKuei
