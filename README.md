@@ -23,7 +23,7 @@
 * Dependancy: 
 * Status: (Progress: 75%, Short-term goal: Measure the odometry accuracy)
 * StartDate: 2016/03/17
-* TargetDate: 2016/04/08
+* TargetDate: 2016/04/08 (rescheduled to 2016/04/15)
 * Owner: Muchun
 
 ### SBIR project application
