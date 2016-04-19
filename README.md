@@ -77,12 +77,12 @@
 * TargetDate: 2016/05/05
 * Owner: Zach + R2 
 
-### ROS package: Objects recognition
-* Dependancy: Xtion Pro + PCL
+### ROS package: Face recognition
+* Dependancy: Baidu Face recognition API
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/06 
+* StartDate: 2016/05/06
 * TargetDate: 2016/06/17
-* Owner: Zach + R2
+* Owner: Zach + R3
 
 
 ### ROS package: RS-485 Real-time arms controller implementation
@@ -92,12 +92,7 @@
 * TargetDate: 2016/5/18
 * Owner: Will + R3
 
-### ROS package: Face recognition
-* Dependancy: Baidu Face recognition API
-* Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/01
-* TargetDate: 2016/04/29
-* Owner: Will + R3
+
 
 
 ### ROS package: Precise Arms movement without trajectory planning
@@ -129,6 +124,12 @@
 * TargetDate: 2016/08/18
 * Owner: R4 + R5
 
+### ROS package: Objects recognition
+* Dependancy: Xtion Pro + PCL
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate:  
+* TargetDate: 
+* Owner: 
 
 ### ROS package: Object Description Model Development
 * Desc: Develop a universal Object description format, so that robot can understand how to manuplate the specified object
