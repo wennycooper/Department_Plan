@@ -23,12 +23,12 @@
 * Dependancy: 
 * Status: (Progress: 75%, Short-term goal: Measure the odometry accuracy)
 * StartDate: 2016/03/17
-* TargetDate: 2016/04/08 (rescheduled to 2016/04/15)
+* TargetDate: 2016/04/29 
 * Owner: Muchun
 
 ### SBIR project application
 * Dependancy:
-* Status: (Progress: 10%, Short-term goal: )
+* Status: (Progress: 30%, Short-term goal: )
 * StartDate: 2016/03/15
 * TargetDate: 2016/04/30
 * Owner: KKuei
@@ -36,15 +36,15 @@
 ## ROS packages
 ### ROS package: IR-based Follow me
 * Dependancy: 
-* Status: (Progress: 80%, Short-term goal: working on visual-based tracking)
+* Status: (Progress: 100%, Short-term goal: working on visual-based tracking)
 * StartDate: 2016/03/07
-* TargetDate: 2016/04/08
+* TargetDate: 2016/04/15
 * Owner: Zach
 
 ### ROS package: Robust mobility
 * Desc: Odometry compensate by IMU, 3D obstacles avoidance
 * Dependancy: Xtion Pro, IMU
-* Status: (Progress: 40%, Short-term goal: Study EKF, cooperate with Dr. Yeh's team)
+* Status: (Progress: 100%, Short-term goal: Study EKF, cooperate with Dr. Yeh's team)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
 * Owner: Will
@@ -53,7 +53,7 @@
 * Dependancy: 
 * Status: (Progress: 75% It looks like we found the solution!! Short-term goal: will use four IR receivers + 3 IR emitters to implement a prototype)
 * StartDate: 2016/03/07
-* TargetDate: 2016/04/15
+* TargetDate: 2016/04/29
 * Owner: KKuei
 
 ### ROS package: Visual-based Gesture Interactions
