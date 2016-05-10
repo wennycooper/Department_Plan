@@ -21,16 +21,16 @@
 ## Short-term projects
 ### BLDC study
 * Dependancy: 
-* Status: (Progress: 75%, Short-term goal: Measure the odometry accuracy)
+* Status: (Progress: 75%, Short-term goal: control in low speed)
 * StartDate: 2016/03/17
-* TargetDate: 2016/04/29 
+* TargetDate: 2016/05/13 
 * Owner: Muchun
 
 ### SBIR project application
 * Dependancy:
 * Status: (Progress: 30%, Short-term goal: )
 * StartDate: 2016/03/15
-* TargetDate: 2016/04/30
+* TargetDate: 2016/05/20
 * Owner: KKuei
 
 ## ROS packages
@@ -51,17 +51,17 @@
 
 ### ROS package: Auto docking
 * Dependancy: 
-* Status: (Progress: 75% It looks like we found the solution!! Short-term goal: will use four IR receivers + 3 IR emitters to implement a prototype)
+* Status: (Progress: 100%, prototype completed and delivered to hardware team)
 * StartDate: 2016/03/07
-* TargetDate: 2016/04/29
+* TargetDate: 2016/05/09
 * Owner: KKuei
 
 ### ROS package: Visual-based Gesture Interactions
 * Dependancy: Xtion Pro + PCL
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/06
-* TargetDate: 2016/04/30
-* Owner: R1 (柯霽祐) 
+* StartDate: 
+* TargetDate: 
+* Owner: 
 
 ### ROS packages: Home security with various sensor integration
 * Dependancy:
