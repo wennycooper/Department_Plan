@@ -87,9 +87,9 @@
 ### ROS packages: Home security with various sensor integration
 * Dependancy:
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 
-* TargetDate: 
-* Owner: R1
+* StartDate: 2016/05/19
+* TargetDate: 2016/06/03
+* Owner: Shang-Wei
 
 ### ROS package: People Detection
 * Dependancy: Xtion Pro + PCL 
