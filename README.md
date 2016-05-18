@@ -23,14 +23,14 @@
 * Dependancy: 
 * Status: (Progress: 75%, Short-term goal: control in low speed)
 * StartDate: 2016/03/17
-* TargetDate: 2016/05/13 
+* TargetDate: 2016/05/19
 * Owner: Muchun
 
 ### SBIR project application
 * Dependancy:
-* Status: (Progress: 30%, Short-term goal: )
+* Status: (Progress: 80%, Short-term goal: review application form)
 * StartDate: 2016/03/15
-* TargetDate: 2016/05/20
+* TargetDate: 2016/05/31
 * Owner: KKuei
 
 ## ROS packages
@@ -41,20 +41,41 @@
 * TargetDate: 2016/04/15
 * Owner: Zach
 
-### ROS package: Robust mobility
-* Desc: Odometry compensate by IMU, 3D obstacles avoidance
+### ROS package: Robust mobility I
+* Desc: Odometry compensate by IMU
 * Dependancy: Xtion Pro, IMU
 * Status: (Progress: 100%, Short-term goal: Study EKF, cooperate with Dr. Yeh's team)
 * StartDate: 2016/03/07
 * TargetDate: 2016/04/15
 * Owner: Will
 
+### ROS package: Robust mobility II
+* Desc: Ability to pass thru a narrow gate
+ * Quantitative analysis of the errors between actual path and planned path
+ * Find out the causes
+ * Design to improve
+ * Iteration
+* Dependancy: 
+* Status: (Progress: 20%, Short-term goal: Quantitative analysis)
+* StartDate: 2016/05/13
+* TargetDate: 2016/05/20
+* Owner: Zach
+
 ### ROS package: Auto docking
+* Desc: Design an auto docking solution, transfer to hardware team
 * Dependancy: 
 * Status: (Progress: 100%, prototype completed and delivered to hardware team)
 * StartDate: 2016/03/07
 * TargetDate: 2016/05/09
 * Owner: KKuei
+
+### ROS package: Auto docking II
+* Desc: Improve the navigation accuracy
+* Dependancy: 
+* Status: (Progress: 0%,  hardware team)
+* StartDate: 2016/05/13
+* TargetDate: 2016/05/27
+* Owner: Eric
 
 ### ROS package: Visual-based Gesture Interactions
 * Dependancy: Xtion Pro + PCL
@@ -66,30 +87,30 @@
 ### ROS packages: Home security with various sensor integration
 * Dependancy:
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/01 
-* TargetDate: 2016/05/31
+* StartDate: 
+* TargetDate: 
 * Owner: R1
 
 ### ROS package: People Detection
 * Dependancy: Xtion Pro + PCL 
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/06
-* TargetDate: 2016/05/05
-* Owner: Zach + R2 
+* StartDate: 
+* TargetDate: 
+* Owner: 
 
 ### ROS package: Face recognition
 * Dependancy: Baidu Face recognition API
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/06
-* TargetDate: 2016/06/17
-* Owner: Zach + R3
+* StartDate: 
+* TargetDate: 
+* Owner: 
 
 
 ### ROS package: RS-485 Real-time arms controller implementation
 * Dependancy: 
-* Status: (Progress: 0%, Short-term goal: ...)
+* Status: (Progress: 0%, Short-term goal: design completed, waiting for the layout board)
 * StartDate: 2016/4/18
-* TargetDate: 2016/5/18
+* TargetDate: 2016/5/27
 * Owner: Will + R3
 
 
@@ -98,30 +119,30 @@
 ### ROS package: Precise Arms movement without trajectory planning
 * Dependancy: RS-485 real-time arms controller + precise arms mechanism
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/19
-* TargetDate: 2016/06/18 
+* StartDate: 
+* TargetDate: 
 * Owner: R4 + R5
 
 ### ROS package: Smooth Arms movement with trajectory planning
 * Dependancy: Real-time 4DOF arms controller + precise arms joints
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/06/19
-* TargetDate: 2016/07/18
+* StartDate: 
+* TargetDate: 
 * Owner: R4 + R5
 
 ### ROS package: Gripper implementation (2DOF wrist + NDOF gripper)
 * Dependancy: outsourced gripper manufactory
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/05/19
-* TargetDate: 2016/06/18
+* StartDate: 
+* TargetDate: 
 * Owner: Will + R4 + R5
 
 
 ### ROS package: Arms & Gripper to manuplate specified object
 * Dependancy: Gripper implementation
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/07/19
-* TargetDate: 2016/08/18
+* StartDate: 
+* TargetDate: 
 * Owner: R4 + R5
 
 ### ROS package: Objects recognition
