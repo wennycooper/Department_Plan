@@ -2,7 +2,7 @@
 
 # Human Resources
 ## ROS developers
-* Current: 5 (KKuei, Zach, Will, Erir,上為)    
+* Current: 5 (KKuei, Zach, Will, Eric,上為)    
 * Recruiting: +5 
 * TargetDate: TBD
 * Status: (Progress: 50%)
@@ -52,13 +52,13 @@
 ### ROS package: Robust mobility II
 * Desc: Ability to pass thru a narrow gate
  * Quantitative analysis of the errors between actual path and planned path
- * Find out the causes
- * Design to improve
+ * Find out the root causes
+ * Design & implement solutions to improve it
  * Iteration
 * Dependancy: 
 * Status: (Progress: 20%, Short-term goal: Quantitative analysis)
 * StartDate: 2016/05/13
-* TargetDate: 2016/05/20
+* TargetDate: 2016/06/10
 * Owner: Zach
 
 ### ROS package: Auto docking
