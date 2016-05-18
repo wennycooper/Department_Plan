@@ -2,25 +2,25 @@
 
 # Human Resources
 ## ROS developers
-* Current: 3
-* Recruiting: +2 +5 
-* TargetDate: 5/1 on board
-* Status: (Progress: 30%, 2 engineers (柯霽祐, 林浩鋕) will be on board on 4/6 & on 4/18)
+* Current: 5 (KKuei, Zach, Will, Erir,上為)    
+* Recruiting: +5 
+* TargetDate: TBD
+* Status: (Progress: 50%)
 
 ## Android app developers
-* Current: 0
-* Recruiting: +3 +1
-* TargetDate: 4/1 on board 
-* Status: (Progress: 75%, 3 engineers (陳彥良 4/6, 王智昇 4/18, 李嘉偉 4/25) on board in April)
+* Current: 3 (陳彥良 4/6, 王智昇 4/18, 李嘉偉 4/25)
+* Recruiting: +1
+* TargetDate: TBD
+* Status: (Progress: 75%)
 
 ## Backend developers
-* Current: 1
+* Current: 1 (Muchun)
 
 # Tasks & Schedules
 
 ## Short-term projects
 ### BLDC study
-* Dependancy: 
+* Dependancy: Dr. Tyeh
 * Status: (Progress: 75%, Short-term goal: control in low speed)
 * StartDate: 2016/03/17
 * TargetDate: 2016/05/19
