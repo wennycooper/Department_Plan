@@ -88,7 +88,7 @@
 * Dependancy:
 * Status: (Progress: 0%, Short-term goal: ...)
 * StartDate: 2016/05/19
-* TargetDate: 2016/06/03
+* TargetDate: 2016/06/08
 * Owner: Shang-Wei
 
 ### ROS package: People Detection
@@ -218,39 +218,39 @@
 * Desc: 教英語, 教數學, 給小孩問答, 教學成果&紀錄給父母看
 * Dependancy: Robust mobility, Visual Gesture, Follow me
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/04/25
-* TargetDate: 2016/05/31
+* StartDate: 
+* TargetDate: 
 * Owner: A1
 
 ### Android app: 廚房小幫手app
 * Desc: 提示做菜步驟, 用手勢或語音互動   
 * Dependancy: Speech Interactions, Visual Gesture
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/06/01
-* TargetDate: 2016/06/30
+* StartDate: 
+* TargetDate: 
 * Owner: A2
 
 ### Android app: 居家安全app
 * Desc: 天然氣, 一氧化碳, 火災, PM2.5, 防災特報提醒, 陌生人入侵, 報警, 定時巡航錄影, 遠端即時監看
 * Dependancy: Telepresence
 * Status: (Progress: %, Short-term goal: ...)
-* StartDate: 2016/06/01
-* TargetDate: 2016/06/30
+* StartDate: 
+* TargetDate: 
 * Owner: A3
 
 ### Android app: 老人照護app 
 * Desc: 用藥提醒&紀錄, 陪老人聊天, 遠端即時監看, 如果老人有健康問題 發出alarm, 定時自動拍照上傳紀錄
 * Dependancy: Telepresence, Speech Interactions
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/06/01
-* TargetDate: 2016/06/30
+* StartDate: 
+* TargetDate: 
 * Owner: A1
 
 ### ANDBOT SDK
 * Dependancy: Tutorial document, sample codes, forum
 * Status: (Progress: 0%, Short-term goal: ...)
-* StartDate: 2016/07/01
-* TargetDate: 2016/07/31 
+* StartDate: 
+* TargetDate: 
 * Owner: A2 + A3 
 
 ### Android app: 個人小秘書app
