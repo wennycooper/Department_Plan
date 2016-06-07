@@ -4,14 +4,14 @@
 ## ROS developers
 * Current: 5 (KKuei, Zach, Will, Eric,上為)    
 * Recruiting: +5 
-* TargetDate: TBD
+* TargetDate: e/June
 * Status: (Progress: 50%)
 
 ## Android app developers
-* Current: 3 (陳彥良 4/6, 王智昇 4/18, 李嘉偉 4/25)
-* Recruiting: +1
-* TargetDate: TBD
-* Status: (Progress: 75%)
+* Current: 2 
+* Recruiting: +2
+* TargetDate: e/June
+* Status: (Progress: 50%)
 
 ## Backend developers
 * Current: 1 (Muchun)
@@ -286,4 +286,105 @@
 * Owner: A2 + A3
 
 
+## SKS demo project
+
+### 鬧鐘提醒
+* Dependancy: 
+* Status: (Progress: 100%, Short-term goal: ...)
+* StartDate: 2016/05/30
+* TargetDate: 2016/06/10
+* Owner: Jia-Wei
+
+## 資訊查詢
+* Dependancy: 
+* Status: (Progress: 100%, Short-term goal: ...)
+* StartDate: 2016/05/30
+* TargetDate: 2016/06/10
+* Owner: Jia-Wei
+
+## 通訊錄1 (read-only)
+* Dependancy: 
+* Status: (Progress: 100%, Short-term goal: ...)
+* StartDate: 2016/05/30
+* TargetDate: 2016/06/10
+* Owner: Jia-Wei
+
+
+## 視頻通話 (from Robot to call phone app)
+* Dependancy: tablet Android framework
+* Status: (Progress: 80%, Short-term goal: ...)
+* StartDate: 2016/05/30
+* TargetDate: 2016/06/10
+* Owner: Macgyver
+* Issues: Camera orientation is wrong, echo cancellation is bad 
+
+## 天氣預報
+* Dependancy: 
+* Status: (Progress: 100%, Short-term goal: ...)
+* StartDate: 2016/05/30
+* TargetDate: 2016/06/10
+* Owner: Jia-Wei
+
+## 講故事 (mp3)
+* Dependancy: content
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/13
+* TargetDate: 2016/06/17
+* Owner: Macgyver
+
+## 拍照
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/13
+* TargetDate: 2016/06/17
+* Owner: Jia-Wei
+
+## 音樂播放 (mp3)
+* Dependancy: content
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/13
+* TargetDate: 2016/06/17
+* Owner: Macgyver
+
+## 待辦事項提醒1 (from app)
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/20
+* TargetDate: 2016/06/24
+* Owner: Jia-Wei
+
+## 服藥提醒 
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/20
+* TargetDate: 2016/06/24
+* Owner: Jia-Wei
+
+## 遠端監控家裡 (mobile phone app call to robot)
+* Dependancy: ROS /cmd_vel
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/20
+* TargetDate: 2016/06/24
+* Owner: Macgyver
+
+## 火災偵測
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/27
+* TargetDate: 2016/07/01
+* Owner: Jia-Wei
+
+## 待辦事項提醒2 (from tablet)
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/06/27
+* TargetDate: 2016/07/08
+* Owner: Jia-Wei
+
+## 通訊錄2 (editable)
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/04
+* TargetDate: 2016/07/08
+* Owner: Jia-Wei
 
