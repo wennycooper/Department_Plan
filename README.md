@@ -388,3 +388,65 @@
 * TargetDate: 2016/07/08
 * Owner: Jia-Wei
 
+## 互動拼音(alphabet)
+* Dependancy: openCV
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner: 
+
+## 數學遊戲 
+* Dependancy: openCV
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner: 
+
+## 留言板
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner: 
+
+## 巡邏監控
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner: 
+
+## 一氧化碳
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner: 
+
+## 瓦斯偵測 
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner: 
+
+## PM2.5
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner:
+
+## 影片播放 
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner:
+
+## 行動錄影
+* Dependancy: 
+* Status: (Progress: 0%, Short-term goal: ...)
+* StartDate: 2016/07/
+* TargetDate: 
+* Owner: 
