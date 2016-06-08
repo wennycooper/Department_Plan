@@ -72,9 +72,9 @@
 ### ROS package: Auto docking II
 * Desc: Improve the navigation accuracy
 * Dependancy: 
-* Status: (Progress: 0%,  hardware team)
+* Status: (Progress: 30%,  hardware team)
 * StartDate: 2016/05/13
-* TargetDate: 2016/05/27
+* TargetDate: 2016/06/17
 * Owner: Eric
 
 ### ROS package: Visual-based Gesture Interactions
